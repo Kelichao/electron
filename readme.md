@@ -33,11 +33,11 @@ $ npm run package
 # 常见错误
 - 此错误最为常见，字符超了，在我本地命令行可能报出来有问题。
 
-`
+```
 Running "create-windows-installer:x64" (create-windows-installer) task
 Warning: Failed with exit code: 1
 Output:
 Attempting to build package from 'orion.nuspec'.
 The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters.
  Use --force to continue.
-`
+```
