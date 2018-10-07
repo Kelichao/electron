@@ -34,7 +34,6 @@ $ npm run package
 - 此错误最为常见，字符超了，在我本地命令行可能报出来有问题。
 
 `
-
 Running "create-windows-installer:x64" (create-windows-installer) task
 Warning: Failed with exit code: 1
 Output:
