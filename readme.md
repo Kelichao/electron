@@ -32,6 +32,7 @@ $ npm run package
 
 # 常见错误
 - 此错误最为常见，字符超了，在我本地命令行可能报出来有问题。
+- 不能用cnpm,一定要用npm安装node_modules
 
 ```
 Running "create-windows-installer:x64" (create-windows-installer) task
