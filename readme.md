@@ -13,8 +13,8 @@ $ npm start
 $ npm run package
 
 ```
+- 最终生成名为`lv6/lv6-win32-x64`的文件夹
 - 打包完成需要去‘\resources\app‘ 下安装依赖包 `$ npm install getmac`
-- 最终生成名为`lv6-win32-x64`的文件
 
 
 # 打包二步骤-生成exe文件（second分支）
