@@ -22,7 +22,7 @@ $ npm run package
 
 1. 切换到second分支，并将lv6-win32-x64复制到其`/build`目录下面(与Gruntfile.js同级)
 
-2. 再次需要去`\resources\app` 下安装依赖包 $ npm install getmac（注意：每次移动过文件夹都需要重新删除node_modules）只需要安装这一个就可以（不然就会报路径或者文件名过长的错误）。
+2. 再次需要去`\resources\app` 下删除node_modules（注意：每次移动过文件夹都需要重新删除node_modules），并重新安装依赖包$ npm install / $ npm install getmac只需要安装这一个就可以（不然就会报路径或者文件名过长的错误）。
 
 3. 在build文件夹中(Gruntfile.js) npm install好
 
